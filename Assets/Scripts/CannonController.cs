@@ -41,18 +41,12 @@ public class CannonController : MonoBehaviour
 
         float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
 
-        //Quaternion rotation = Quaternion.AngleAxis(angle, Vector3.forward);
-
         angle = ConvertFrom0To360(angle);
 
         angle = EvaluateAngularVelocity(angle);
-        //angle = ClampAngle(angle);
+        angle = ClampAngle(angle);
 
         RotateTo(angle);
-
-        //rotation = Quaternion.Euler(rotation.x, rotation.y, angle);
-        //
-        //cannonPivotPointTransform.rotation = rotation;
     }
 
     private float EvaluateAngularVelocity(float angle)

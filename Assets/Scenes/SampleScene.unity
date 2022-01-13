@@ -696,7 +696,7 @@ MonoBehaviour:
   minAngle: 60
   maxAngle: 350
   maxAngularVelocity: 500
-  xScaleInverted: 0
+  xScaleInverted: 1
 --- !u!1 &1068845852
 GameObject:
   m_ObjectHideFlags: 0
