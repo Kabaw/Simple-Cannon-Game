@@ -1,0 +1,2232 @@
+fileFormatVersion: 2
+guid: ac06f98a1ddb9c94ab038d2408fae7ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5953200454453709418
+    second: Cannonsprite104l2z8u9a3c732p33_0
+  - first:
+      213: -9115516945731853076
+    second: Cannonsprite104l2z8u9a3c732p33_1
+  - first:
+      213: 981183352044079244
+    second: Cannonsprite104l2z8u9a3c732p33_2
+  - first:
+      213: 3855359712926460186
+    second: Cannonsprite104l2z8u9a3c732p33_3
+  - first:
+      213: 5047607080434052726
+    second: Cannonsprite104l2z8u9a3c732p33_4
+  - first:
+      213: 120753884354755180
+    second: Cannonsprite104l2z8u9a3c732p33_5
+  - first:
+      213: 7005354661398318652
+    second: Cannonsprite104l2z8u9a3c732p33_6
+  - first:
+      213: -3151016263234353914
+    second: Cannonsprite104l2z8u9a3c732p33_7
+  - first:
+      213: -4273414329210709595
+    second: Cannonsprite104l2z8u9a3c732p33_8
+  - first:
+      213: 1602579030525753333
+    second: Cannonsprite104l2z8u9a3c732p33_9
+  - first:
+      213: 7388453035764942282
+    second: Cannonsprite104l2z8u9a3c732p33_10
+  - first:
+      213: 6193975316480801595
+    second: Cannonsprite104l2z8u9a3c732p33_11
+  - first:
+      213: -5824914688043915141
+    second: Cannonsprite104l2z8u9a3c732p33_12
+  - first:
+      213: 7222324354754404166
+    second: Cannonsprite104l2z8u9a3c732p33_13
+  - first:
+      213: -6240348178284290921
+    second: Cannonsprite104l2z8u9a3c732p33_14
+  - first:
+      213: 1219675210574781889
+    second: Cannonsprite104l2z8u9a3c732p33_15
+  - first:
+      213: 2680041371903148465
+    second: Cannonsprite104l2z8u9a3c732p33_16
+  - first:
+      213: 65810322134187569
+    second: Cannonsprite104l2z8u9a3c732p33_17
+  - first:
+      213: -82239104435344882
+    second: Cannonsprite104l2z8u9a3c732p33_18
+  - first:
+      213: 7696426114884821823
+    second: Cannonsprite104l2z8u9a3c732p33_19
+  - first:
+      213: 5172954903986801577
+    second: Cannonsprite104l2z8u9a3c732p33_20
+  - first:
+      213: 1650028163276010628
+    second: Cannonsprite104l2z8u9a3c732p33_21
+  - first:
+      213: -4126112859375505587
+    second: Cannonsprite104l2z8u9a3c732p33_22
+  - first:
+      213: -8396040426968934149
+    second: Cannonsprite104l2z8u9a3c732p33_23
+  - first:
+      213: -4935991558175588002
+    second: Cannonsprite104l2z8u9a3c732p33_24
+  - first:
+      213: -4488866263950381801
+    second: Cannonsprite104l2z8u9a3c732p33_25
+  - first:
+      213: -3396349029392823503
+    second: Cannonsprite104l2z8u9a3c732p33_26
+  - first:
+      213: 7563292799398038018
+    second: Cannonsprite104l2z8u9a3c732p33_27
+  - first:
+      213: -8500975492343871834
+    second: Cannonsprite104l2z8u9a3c732p33_28
+  - first:
+      213: -5218841531501821198
+    second: Cannonsprite104l2z8u9a3c732p33_29
+  - first:
+      213: -4442175945502329489
+    second: Cannonsprite104l2z8u9a3c732p33_30
+  - first:
+      213: 4813606794862051350
+    second: Cannonsprite104l2z8u9a3c732p33_31
+  - first:
+      213: 4846792946871297070
+    second: Cannonsprite104l2z8u9a3c732p33_32
+  - first:
+      213: -1915056736446613921
+    second: Cannonsprite104l2z8u9a3c732p33_33
+  - first:
+      213: -3843597609361241797
+    second: Cannonsprite104l2z8u9a3c732p33_34
+  - first:
+      213: 238473340030370167
+    second: Cannonsprite104l2z8u9a3c732p33_35
+  - first:
+      213: -5811716697299277220
+    second: Cannonsprite104l2z8u9a3c732p33_36
+  - first:
+      213: -169417178112460300
+    second: Cannonsprite104l2z8u9a3c732p33_37
+  - first:
+      213: 8172869563947704321
+    second: Cannonsprite104l2z8u9a3c732p33_38
+  - first:
+      213: 9092769745781232195
+    second: Cannonsprite104l2z8u9a3c732p33_39
+  - first:
+      213: 8232755530682213858
+    second: Cannonsprite104l2z8u9a3c732p33_40
+  - first:
+      213: -8541011798484192872
+    second: Cannonsprite104l2z8u9a3c732p33_41
+  - first:
+      213: -2549077793295842874
+    second: Cannonsprite104l2z8u9a3c732p33_42
+  - first:
+      213: -7852918530228459459
+    second: Cannonsprite104l2z8u9a3c732p33_43
+  - first:
+      213: 5048237105636256808
+    second: Cannonsprite104l2z8u9a3c732p33_44
+  - first:
+      213: 3600669061129937233
+    second: Cannonsprite104l2z8u9a3c732p33_45
+  - first:
+      213: -1237651124229642207
+    second: Cannonsprite104l2z8u9a3c732p33_46
+  - first:
+      213: 1841994746380687475
+    second: Cannonsprite104l2z8u9a3c732p33_47
+  - first:
+      213: 6311791638937162942
+    second: Cannonsprite104l2z8u9a3c732p33_48
+  - first:
+      213: 8245297364036730080
+    second: Cannonsprite104l2z8u9a3c732p33_49
+  - first:
+      213: -8600831341996537330
+    second: Cannonsprite104l2z8u9a3c732p33_50
+  - first:
+      213: 3177964567880522968
+    second: Cannonsprite104l2z8u9a3c732p33_51
+  - first:
+      213: -8431925106229342439
+    second: Cannonsprite104l2z8u9a3c732p33_52
+  - first:
+      213: -3246788392702610903
+    second: Cannonsprite104l2z8u9a3c732p33_53
+  - first:
+      213: -8317702875494572362
+    second: Cannonsprite104l2z8u9a3c732p33_54
+  - first:
+      213: 7383913958410815640
+    second: Cannonsprite104l2z8u9a3c732p33_55
+  - first:
+      213: -749804883983837938
+    second: Cannonsprite104l2z8u9a3c732p33_56
+  - first:
+      213: 767443262224134594
+    second: Cannonsprite104l2z8u9a3c732p33_57
+  - first:
+      213: 2001603451829081852
+    second: Cannonsprite104l2z8u9a3c732p33_58
+  - first:
+      213: 5273846616289240121
+    second: Cannonsprite104l2z8u9a3c732p33_59
+  - first:
+      213: 6704329751677858934
+    second: Cannonsprite104l2z8u9a3c732p33_60
+  - first:
+      213: 429331736762856831
+    second: Cannonsprite104l2z8u9a3c732p33_61
+  - first:
+      213: 1537184108865736121
+    second: Cannonsprite104l2z8u9a3c732p33_62
+  - first:
+      213: -560146953052179921
+    second: Cannonsprite104l2z8u9a3c732p33_63
+  - first:
+      213: 4329483893859620914
+    second: Cannonsprite104l2z8u9a3c732p33_64
+  - first:
+      213: 8643679284483377717
+    second: Cannonsprite104l2z8u9a3c732p33_65
+  - first:
+      213: 3151080546698482983
+    second: Cannonsprite104l2z8u9a3c732p33_66
+  - first:
+      213: -672585849843029109
+    second: Cannonsprite104l2z8u9a3c732p33_67
+  - first:
+      213: 9011220463783995509
+    second: Cannonsprite104l2z8u9a3c732p33_68
+  - first:
+      213: -2820465370425279170
+    second: Cannonsprite104l2z8u9a3c732p33_69
+  - first:
+      213: 1756356481584297459
+    second: Cannonsprite104l2z8u9a3c732p33_70
+  - first:
+      213: -7311071254629801339
+    second: Cannonsprite104l2z8u9a3c732p33_71
+  - first:
+      213: 7828689818266701185
+    second: Cannonsprite104l2z8u9a3c732p33_72
+  - first:
+      213: -8453058873295979484
+    second: Cannonsprite104l2z8u9a3c732p33_73
+  - first:
+      213: 3664898211526588742
+    second: Cannonsprite104l2z8u9a3c732p33_74
+  - first:
+      213: 8735253411886074811
+    second: Cannonsprite104l2z8u9a3c732p33_75
+  - first:
+      213: -8105236867405008953
+    second: Cannonsprite104l2z8u9a3c732p33_76
+  - first:
+      213: -3666801193117280634
+    second: Cannonsprite104l2z8u9a3c732p33_77
+  - first:
+      213: -6684989184700373949
+    second: Cannonsprite104l2z8u9a3c732p33_78
+  - first:
+      213: -7752205063417026391
+    second: Cannonsprite104l2z8u9a3c732p33_79
+  - first:
+      213: -2689224596720741739
+    second: Cannonsprite104l2z8u9a3c732p33_80
+  - first:
+      213: 2846580896011958007
+    second: Cannonsprite104l2z8u9a3c732p33_81
+  - first:
+      213: -4791044338877384068
+    second: Cannonsprite104l2z8u9a3c732p33_82
+  - first:
+      213: -7659504271464556858
+    second: Cannonsprite104l2z8u9a3c732p33_83
+  - first:
+      213: 8471626825746991121
+    second: Cannonsprite104l2z8u9a3c732p33_84
+  - first:
+      213: 2741413433695526286
+    second: Cannonsprite104l2z8u9a3c732p33_85
+  - first:
+      213: -8457981280229353943
+    second: Cannonsprite104l2z8u9a3c732p33_86
+  - first:
+      213: -2700886539546407434
+    second: Cannonsprite104l2z8u9a3c732p33_87
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1270
+        width: 334
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a486c95440e9250800000000000000
+      internalID: 5953200454453709418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 888
+        width: 462
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4699942ad2f7180800000000000000
+      internalID: -9115516945731853076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1112
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c884d166f0ddd9d00800000000000000
+      internalID: 981183352044079244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_3
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 824
+        width: 101
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19655a7b3df08530800000000000000
+      internalID: 3855359712926460186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 824
+        width: 168
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ea40375e3bc0640800000000000000
+      internalID: 5047607080434052726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 773
+        width: 210
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ab63e94010da100800000000000000
+      internalID: 120753884354755180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_6
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 773
+        width: 101
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e0646d2f4083160800000000000000
+      internalID: 7005354661398318652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_7
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 773
+        width: 201
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605007447675544d0800000000000000
+      internalID: -3151016263234353914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 623
+        width: 151
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9d4512f48c1b4c0800000000000000
+      internalID: -4273414329210709595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_9
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 623
+        width: 151
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f73afe23218d3610800000000000000
+      internalID: 1602579030525753333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_10
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 624
+        width: 151
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac50d6ce3ee098660800000000000000
+      internalID: 7388453035764942282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_11
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 623
+        width: 151
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b3066bbbb65f550800000000000000
+      internalID: 6193975316480801595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 579
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78ef24f3feb92fa0800000000000000
+      internalID: -5824914688043915141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 579
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fd9c13cb9da3460800000000000000
+      internalID: 7222324354754404166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_14
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 579
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cdb960564d569a0800000000000000
+      internalID: -6240348178284290921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_15
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 579
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdd8a354282de010800000000000000
+      internalID: 1219675210574781889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_16
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 579
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b143a3ad6b613520800000000000000
+      internalID: 2680041371903148465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_17
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 579
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ebc59a32ec9e000800000000000000
+      internalID: 65810322134187569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_18
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 579
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a2c7168f3dbdef0800000000000000
+      internalID: -82239104435344882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_19
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 579
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33efb926c23fca60800000000000000
+      internalID: 7696426114884821823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_20
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 579
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab8f33e3170ac740800000000000000
+      internalID: 5172954903986801577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_21
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 579
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484f47d4fd316e610800000000000000
+      internalID: 1650028163276010628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_22
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 336
+        width: 271
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f60c9273a1db6c0800000000000000
+      internalID: -4126112859375505587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_23
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 423
+        width: 85
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf892be37b54b7b80800000000000000
+      internalID: -8396040426968934149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_24
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 528
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e510e9074d5df7bb0800000000000000
+      internalID: -4935991558175588002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_25
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 502
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71da00d7ae754b1c0800000000000000
+      internalID: -4488866263950381801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_26
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 502
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b4cc96d8ebdd0d0800000000000000
+      internalID: -3396349029392823503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_27
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 502
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ac360aab636f860800000000000000
+      internalID: 7563292799398038018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_28
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 502
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6ca8e64d7760a80800000000000000
+      internalID: -8500975492343871834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_29
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 502
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f247c71743f297b0800000000000000
+      internalID: -5218841531501821198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_30
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 502
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f657c8263883a52c0800000000000000
+      internalID: -4442175945502329489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_31
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 502
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610c82850ed5dc240800000000000000
+      internalID: 4813606794862051350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_32
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 484
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24e12a7184434340800000000000000
+      internalID: 4846792946871297070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_33
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 458
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56716b6b0a5c65e0800000000000000
+      internalID: -1915056736446613921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_34
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 458
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b398b7aa65cc8aac0800000000000000
+      internalID: -3843597609361241797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_35
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 458
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77149e04d3a3f4300800000000000000
+      internalID: 238473340030370167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_36
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 458
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a2542a472a85fa0800000000000000
+      internalID: -5811716697299277220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_37
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 458
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9f1cf59fb16adf0800000000000000
+      internalID: -169417178112460300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_38
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 458
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10064b2119ddb6170800000000000000
+      internalID: 8172869563947704321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_39
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 458
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34295b188e1003e70800000000000000
+      internalID: 9092769745781232195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_40
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 424
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e522f0498f904270800000000000000
+      internalID: 8232755530682213858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_41
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 414
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891fde0850b387980800000000000000
+      internalID: -8541011798484192872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_42
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 414
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1c3c9a04bdf9cd0800000000000000
+      internalID: -2549077793295842874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_43
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 414
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3866ab0434d40390800000000000000
+      internalID: -7852918530228459459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_44
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 414
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c256f96e0fe0640800000000000000
+      internalID: 5048237105636256808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_45
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 414
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151a3661f6528f130800000000000000
+      internalID: 3600669061129937233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_46
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 414
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128ed602cdaf2dee0800000000000000
+      internalID: -1237651124229642207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_47
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 414
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37818286674109910800000000000000
+      internalID: 1841994746380687475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_48
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 352
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb45127ed0df79750800000000000000
+      internalID: 6311791638937162942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_49
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 210
+        width: 110
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecbfd2644e2d6270800000000000000
+      internalID: 8245297364036730080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_50
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 210
+        width: 110
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a004fa675b3a880800000000000000
+      internalID: -8600831341996537330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_51
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 107
+        width: 110
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcdb49dfe56a1c20800000000000000
+      internalID: 3177964567880522968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_52
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 107
+        width: 110
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f80864ac8cbfa80800000000000000
+      internalID: -8431925106229342439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_53
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 143
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9227918b82711f2d0800000000000000
+      internalID: -3246788392702610903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_54
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 143
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be96e6cd45919c80800000000000000
+      internalID: -8317702875494572362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_55
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 142
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898002f9f9ee87660800000000000000
+      internalID: 7383913958410815640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_56
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 143
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e055a4f3e682895f0800000000000000
+      internalID: -749804883983837938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_57
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 142
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1f226b49186aa00800000000000000
+      internalID: 767443262224134594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_58
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 143
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6d7770cbf17cb10800000000000000
+      internalID: 2001603451829081852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_59
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 143
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934e0d33e87703940800000000000000
+      internalID: 5273846616289240121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_60
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 142
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67477d953609a0d50800000000000000
+      internalID: 6704329751677858934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_61
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 9
+        width: 214
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f753d8c90fa45f500800000000000000
+      internalID: 429331736762856831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_62
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 102
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd415b7dcc255510800000000000000
+      internalID: 1537184108865736121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_63
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 102
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22be416055f938f0800000000000000
+      internalID: -560146953052179921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_64
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 102
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2381742b9aa651c30800000000000000
+      internalID: 4329483893859620914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_65
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 102
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ac808538484f770800000000000000
+      internalID: 8643679284483377717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_66
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 102
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7255b94ef03eabb20800000000000000
+      internalID: 3151080546698482983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_67
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 102
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8be62babbe7aa6f0800000000000000
+      internalID: -672585849843029109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_68
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 102
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5786390b4494e0d70800000000000000
+      internalID: 9011220463783995509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_69
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 102
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3db28660b1bbd8d0800000000000000
+      internalID: -2820465370425279170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_70
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 69
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f579c71ae4df5810800000000000000
+      internalID: 1756356481584297459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_71
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 14
+        width: 140
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582a83cfd6bd98a90800000000000000
+      internalID: -7311071254629801339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_72
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 61
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d018a59e715ac60800000000000000
+      internalID: 7828689818266701185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_73
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 61
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cbabfadb3b0ba80800000000000000
+      internalID: -8453058873295979484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_74
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 61
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649b10481855cd230800000000000000
+      internalID: 3664898211526588742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_75
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 12
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb0d7e52bad93970800000000000000
+      internalID: 8735253411886074811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_76
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 15
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cface1330a648f80800000000000000
+      internalID: -8105236867405008953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_77
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 20
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686144e0eb7ec1dc0800000000000000
+      internalID: -3666801193117280634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_78
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 21
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3442b9e41c52a33a0800000000000000
+      internalID: -6684989184700373949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_79
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 21
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a82b095192aa6490800000000000000
+      internalID: -7752205063417026391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_80
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 20
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59297373a74fdaad0800000000000000
+      internalID: -2689224596720741739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_81
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 21
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6b43b3e36118720800000000000000
+      internalID: 2846580896011958007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_82
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 21
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a311ece8ac28db0800000000000000
+      internalID: -4791044338877384068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_83
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 21
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c694c76279f3b590800000000000000
+      internalID: -7659504271464556858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_84
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 20
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118c152a6b3419570800000000000000
+      internalID: 8471626825746991121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_85
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 21
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8dd7e94ef47b0620800000000000000
+      internalID: 2741413433695526286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_86
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 21
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926960386d63f9a80800000000000000
+      internalID: -8457981280229353943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannonsprite104l2z8u9a3c732p33_87
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 20
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdc3bf8006848ad0800000000000000
+      internalID: -2700886539546407434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

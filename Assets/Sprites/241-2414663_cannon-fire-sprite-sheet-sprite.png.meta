@@ -233,11 +233,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 10
-        y: 101
+        y: 103
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -254,11 +254,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 110
-        y: 101
+        y: 103
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -275,11 +275,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 210
-        y: 101
+        y: 103
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -295,12 +295,12 @@ TextureImporter:
       name: 241-2414663_cannon-fire-sprite-sheet-sprite_3
       rect:
         serializedVersion: 2
-        x: 310
-        y: 101
+        x: 311
+        y: 103
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -316,12 +316,12 @@ TextureImporter:
       name: 241-2414663_cannon-fire-sprite-sheet-sprite_4
       rect:
         serializedVersion: 2
-        x: 410
-        y: 101
+        x: 411
+        y: 103
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -337,12 +337,12 @@ TextureImporter:
       name: 241-2414663_cannon-fire-sprite-sheet-sprite_5
       rect:
         serializedVersion: 2
-        x: 510
-        y: 101
+        x: 512
+        y: 103
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -358,12 +358,12 @@ TextureImporter:
       name: 241-2414663_cannon-fire-sprite-sheet-sprite_6
       rect:
         serializedVersion: 2
-        x: 610
-        y: 101
+        x: 612
+        y: 103
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -379,12 +379,12 @@ TextureImporter:
       name: 241-2414663_cannon-fire-sprite-sheet-sprite_7
       rect:
         serializedVersion: 2
-        x: 710
-        y: 101
+        x: 712
+        y: 103
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -401,11 +401,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 10
-        y: 1
+        y: 3
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -422,11 +422,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 110
-        y: 1
+        y: 3
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -442,12 +442,12 @@ TextureImporter:
       name: 241-2414663_cannon-fire-sprite-sheet-sprite_10
       rect:
         serializedVersion: 2
-        x: 210
-        y: 1
+        x: 211
+        y: 3
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -463,12 +463,12 @@ TextureImporter:
       name: 241-2414663_cannon-fire-sprite-sheet-sprite_11
       rect:
         serializedVersion: 2
-        x: 310
-        y: 1
+        x: 311
+        y: 3
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
