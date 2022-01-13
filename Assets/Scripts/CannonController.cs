@@ -8,9 +8,9 @@ public class CannonController : MonoBehaviour
     [SerializeField] private Transform cannonPivotPointTransform;
 
     [Header("Angle rotation limit")]
-    //[SerializeField] private bool inverseArc;
-    [SerializeField] private float angleLeftThreshholdOffset;
-    [SerializeField] private float angleRightThreshholdOffset;
+    [SerializeField] private bool invertArc;
+    [SerializeField] private float minAngle;
+    [SerializeField] private float maxAngle;
 
     private new Camera camera;
 
@@ -43,16 +43,21 @@ public class CannonController : MonoBehaviour
 
     private float ClampAngle(float angle)
     {
-        bool leftOK = angle <= angleLeftThreshholdOffset;
-        bool rightOK = 360 - angle >= angleRightThreshholdOffset;
-
-        if (leftOK && rightOK)
-            return angle;
-
-        float leftDiff = angle - angleLeftThreshholdOffset;
-        float rightDiff = 360 - angle - angleLeftThreshholdOffset;
-
-        return leftDiff > rightDiff ? angleLeftThreshholdOffset : 360 - angleRightThreshholdOffset;
+        if (!invertArc)
+        {
+            return Mathf.Clamp(angle, minAngle, maxAngle);
+        }
+        else
+        {
+            if (angle > minAngle && angle < maxAngle)
+            {
+                return angle - minAngle > maxAngle - angle ? maxAngle : minAngle;
+            }
+            else
+            {
+                return angle;
+            }
+        }
     }
 
     private Vector2 MousePosition()
