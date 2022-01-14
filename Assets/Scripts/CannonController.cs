@@ -26,6 +26,9 @@ public class CannonController : MonoBehaviour
     [SerializeField] private float minAngle;
     [SerializeField] private float maxAngle;
 
+    [Header("FirePoint angle offset")]
+    [SerializeField] private LeftRighEnum rotationOrientation;
+
     [Header("Movement")]
     [SerializeField] private float maxAngularVelocity;
 
@@ -41,15 +44,17 @@ public class CannonController : MonoBehaviour
     [SerializeField] private bool xScaleInverted;
 
     private new Camera camera;
+    private float lastShotTime = 0;
+    private float firePointPivotPointOffsetAngle;
 
     private Vector2 cannonPivotPoint { get { return cannonPivotPointTransform.position; } }
     private int xScaleSign { get { return xScaleInverted ? -1 : 1; } }
-    private float lastShotTime = 0;
 
 
     private void Awake()
     {
         camera = Camera.main;
+        CalculateFirePointPivotPointOffsetAngle();
     }
 
     void Update()
@@ -90,9 +95,28 @@ public class CannonController : MonoBehaviour
 
         angle = EvaluateAngularVelocity(angle);
         angle = ClampAngle(angle);
+        angle = AddFirePointOffSetAngle(angle);
+
+        angle = ConvertFrom0To360(angle);
 
         RotateTo(angle);
     }
+
+    private float AddFirePointOffSetAngle(float angle)
+    {
+        float offsetAngle = firePointPivotPointOffsetAngle * (rotationOrientation == LeftRighEnum.LEFT ? 1 : -1);
+
+        return angle + offsetAngle;
+    }
+
+    //private float AddFirePointOffSetAngle(Vector2 pivotDirection)
+    //{
+    //    float firePointOffSet = Vector2.Angle(firePoint.right, pivotDirection);
+    //
+    //    firePointOffSet *= (rotationOrientation == LeftRighEnum.LEFT ? 1 : -1);
+    //
+    //    return firePointOffSet;
+    //}
 
     private float EvaluateAngularVelocity(float angle)
     {
@@ -176,6 +200,13 @@ public class CannonController : MonoBehaviour
         }
 
         return angle;
+    }
+
+    private void CalculateFirePointPivotPointOffsetAngle()
+    {
+        Vector2 pivotToFireDirection = ((Vector2)firePoint.position - cannonPivotPoint).normalized;
+
+        firePointPivotPointOffsetAngle = Vector2.Angle(pivotToFireDirection, cannonPivotPointTransform.right);
     }
 
     private Vector2 MousePosition()
