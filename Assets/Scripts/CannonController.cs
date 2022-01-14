@@ -42,10 +42,13 @@ public class CannonController : MonoBehaviour
 
     [Header("All Purpose")]
     [SerializeField] private bool xScaleInverted;
+    [SerializeField] private bool featureToggle;
+    [SerializeField] private float lookAtAngleThreshhold;
 
     private new Camera camera;
     private float lastShotTime = 0;
     private float firePointPivotPointOffsetAngle;
+    private Vector2 previousLookAtTargetDirection;
 
     private Vector2 cannonPivotPoint { get { return cannonPivotPointTransform.position; } }
     private int xScaleSign { get { return xScaleInverted ? -1 : 1; } }
@@ -54,6 +57,8 @@ public class CannonController : MonoBehaviour
     private void Awake()
     {
         camera = Camera.main;
+        previousLookAtTargetDirection = cannonPivotPointTransform.right;
+
         CalculateFirePointPivotPointOffsetAngle();
     }
 
@@ -89,15 +94,24 @@ public class CannonController : MonoBehaviour
     {
         Vector2 direction = (targetPoint - cannonPivotPoint).normalized;
 
+        print(Vector2.Angle(previousLookAtTargetDirection, direction) < lookAtAngleThreshhold);
+
+        if (Vector2.Angle(previousLookAtTargetDirection, direction) < lookAtAngleThreshhold)
+            return;
+
         float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
 
         angle = ConvertFrom0To360(angle);
 
         angle = EvaluateAngularVelocity(angle);
-        angle = ClampAngle(angle);
-        angle = AddFirePointOffSetAngle(angle);
+        //angle = ClampAngle(angle);        
+
+        if(featureToggle)
+            angle = AddFirePointOffSetAngle(angle);
 
         angle = ConvertFrom0To360(angle);
+
+        previousLookAtTargetDirection = direction;
 
         RotateTo(angle);
     }
@@ -207,6 +221,8 @@ public class CannonController : MonoBehaviour
         Vector2 pivotToFireDirection = ((Vector2)firePoint.position - cannonPivotPoint).normalized;
 
         firePointPivotPointOffsetAngle = Vector2.Angle(pivotToFireDirection, cannonPivotPointTransform.right);
+
+        print(firePointPivotPointOffsetAngle);
     }
 
     private Vector2 MousePosition()
