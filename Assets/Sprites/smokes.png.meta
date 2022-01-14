@@ -1,0 +1,1272 @@
+fileFormatVersion: 2
+guid: 0ec127711ccab7e44bb4454458673e0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8731219956391688731
+    second: pngfind.com-smoke-texture-png-1733900_0
+  - first:
+      213: -3525958299190947802
+    second: pngfind.com-smoke-texture-png-1733900_1
+  - first:
+      213: 2859238808350908186
+    second: pngfind.com-smoke-texture-png-1733900_2
+  - first:
+      213: 6333468221030035341
+    second: pngfind.com-smoke-texture-png-1733900_3
+  - first:
+      213: -157590230232386326
+    second: pngfind.com-smoke-texture-png-1733900_4
+  - first:
+      213: 4229371032706062262
+    second: pngfind.com-smoke-texture-png-1733900_5
+  - first:
+      213: -3368629938113032980
+    second: pngfind.com-smoke-texture-png-1733900_6
+  - first:
+      213: -8114002083114276435
+    second: pngfind.com-smoke-texture-png-1733900_7
+  - first:
+      213: -1256158136156999134
+    second: pngfind.com-smoke-texture-png-1733900_8
+  - first:
+      213: 3324581382722125163
+    second: pngfind.com-smoke-texture-png-1733900_9
+  - first:
+      213: -4941047933821717909
+    second: pngfind.com-smoke-texture-png-1733900_10
+  - first:
+      213: -8480180996077371138
+    second: pngfind.com-smoke-texture-png-1733900_11
+  - first:
+      213: -6337620333121413520
+    second: pngfind.com-smoke-texture-png-1733900_12
+  - first:
+      213: 9046527009924919772
+    second: pngfind.com-smoke-texture-png-1733900_13
+  - first:
+      213: -1147661221295065680
+    second: pngfind.com-smoke-texture-png-1733900_14
+  - first:
+      213: 2979667885571018015
+    second: pngfind.com-smoke-texture-png-1733900_15
+  - first:
+      213: -3938219335477134902
+    second: pngfind.com-smoke-texture-png-1733900_16
+  - first:
+      213: -8943431600812578087
+    second: pngfind.com-smoke-texture-png-1733900_17
+  - first:
+      213: -8175615697035985848
+    second: pngfind.com-smoke-texture-png-1733900_18
+  - first:
+      213: 3394577365885581564
+    second: pngfind.com-smoke-texture-png-1733900_19
+  - first:
+      213: -3691602179979508527
+    second: pngfind.com-smoke-texture-png-1733900_20
+  - first:
+      213: -3465264471740441668
+    second: pngfind.com-smoke-texture-png-1733900_21
+  - first:
+      213: -481574948871733644
+    second: pngfind.com-smoke-texture-png-1733900_22
+  - first:
+      213: 8291346393606389602
+    second: pngfind.com-smoke-texture-png-1733900_23
+  - first:
+      213: -8265386706026370109
+    second: pngfind.com-smoke-texture-png-1733900_24
+  - first:
+      213: 457851105829960744
+    second: pngfind.com-smoke-texture-png-1733900_25
+  - first:
+      213: -2830302234470325584
+    second: pngfind.com-smoke-texture-png-1733900_26
+  - first:
+      213: -7301926644498942367
+    second: pngfind.com-smoke-texture-png-1733900_27
+  - first:
+      213: -4849510930613626712
+    second: pngfind.com-smoke-texture-png-1733900_28
+  - first:
+      213: -1397574784481646311
+    second: pngfind.com-smoke-texture-png-1733900_29
+  - first:
+      213: -6702369229367258059
+    second: pngfind.com-smoke-texture-png-1733900_30
+  - first:
+      213: 6703929942892065226
+    second: pngfind.com-smoke-texture-png-1733900_31
+  - first:
+      213: -1944299989099497746
+    second: pngfind.com-smoke-texture-png-1733900_32
+  - first:
+      213: 8053972818953916087
+    second: pngfind.com-smoke-texture-png-1733900_33
+  - first:
+      213: -5348172934181024165
+    second: pngfind.com-smoke-texture-png-1733900_34
+  - first:
+      213: -4353798827119263553
+    second: pngfind.com-smoke-texture-png-1733900_35
+  - first:
+      213: 2386434360824436244
+    second: pngfind.com-smoke-texture-png-1733900_36
+  - first:
+      213: -3337385241690384164
+    second: pngfind.com-smoke-texture-png-1733900_37
+  - first:
+      213: 276999230265705583
+    second: pngfind.com-smoke-texture-png-1733900_38
+  - first:
+      213: 5965213297740283324
+    second: pngfind.com-smoke-texture-png-1733900_39
+  - first:
+      213: 707603211935941720
+    second: pngfind.com-smoke-texture-png-1733900_40
+  - first:
+      213: 1070552776869069157
+    second: pngfind.com-smoke-texture-png-1733900_41
+  - first:
+      213: -6327016033596727309
+    second: pngfind.com-smoke-texture-png-1733900_42
+  - first:
+      213: 8112601703864248907
+    second: pngfind.com-smoke-texture-png-1733900_43
+  - first:
+      213: -925754043521742277
+    second: pngfind.com-smoke-texture-png-1733900_44
+  - first:
+      213: 2029455436234125515
+    second: pngfind.com-smoke-texture-png-1733900_45
+  - first:
+      213: 2241032361988736869
+    second: pngfind.com-smoke-texture-png-1733900_46
+  - first:
+      213: -188927956320925331
+    second: pngfind.com-smoke-texture-png-1733900_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 539
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5c87ba5b974d680800000000000000
+      internalID: -8731219956391688731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 537
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62012e3bb97411fc0800000000000000
+      internalID: -3525958299190947802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_2
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 529
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f54cb1c8e0ea720800000000000000
+      internalID: 2859238808350908186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_3
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 526
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f68b67acff4e750800000000000000
+      internalID: 6333468221030035341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_4
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 524
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae43de2458020ddf0800000000000000
+      internalID: -157590230232386326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_5
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 522
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b795cbcb8eb1ba30800000000000000
+      internalID: 4229371032706062262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_6
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 522
+        width: 59
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecc6074be83041d0800000000000000
+      internalID: -3368629938113032980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_7
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 522
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9a1316816456f80800000000000000
+      internalID: -8114002083114276435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_8
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 522
+        width: 73
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22235a0a4da319ee0800000000000000
+      internalID: -1256158136156999134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_9
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 532
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d77083729432e20800000000000000
+      internalID: 3324581382722125163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 394
+        width: 80
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62f06e351fdd6bb0800000000000000
+      internalID: -4941047933821717909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_11
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 395
+        width: 86
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef04ac16058505a80800000000000000
+      internalID: -8480180996077371138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_12
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 395
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e510b92ef3c08a0800000000000000
+      internalID: -6337620333121413520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_13
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 394
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd13d8d8268bb8d70800000000000000
+      internalID: 9046527009924919772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_14
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 392
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b577362330b210f0800000000000000
+      internalID: -1147661221295065680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_15
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 390
+        width: 83
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d891ca728e95920800000000000000
+      internalID: 2979667885571018015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_16
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 389
+        width: 90
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac97f454162a859c0800000000000000
+      internalID: -3938219335477134902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_17
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 393
+        width: 93
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da2098e75c82e380800000000000000
+      internalID: -8943431600812578087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_18
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 272
+        width: 93
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cff0ef6d06a8e80800000000000000
+      internalID: -8175615697035985848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_19
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 271
+        width: 89
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8f0380126fb1f20800000000000000
+      internalID: 3394577365885581564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_20
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 267
+        width: 94
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d48342506bc4ccc0800000000000000
+      internalID: -3691602179979508527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_21
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 266
+        width: 92
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb112d9258e8efc0800000000000000
+      internalID: -3465264471740441668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_22
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 265
+        width: 96
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ef5cfa22a1159f0800000000000000
+      internalID: -481574948871733644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_23
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 265
+        width: 104
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fff949d97c01370800000000000000
+      internalID: 8291346393606389602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_24
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 299
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbef0035927b4d80800000000000000
+      internalID: -8265386706026370109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_25
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 264
+        width: 83
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cb30ba72d9a5600800000000000000
+      internalID: 457851105829960744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_26
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 265
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2e6630d1fb8b8d0800000000000000
+      internalID: -2830302234470325584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_27
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 307
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1663ea277685aaa90800000000000000
+      internalID: -7301926644498942367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 135
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8966e908313bcb0800000000000000
+      internalID: -4849510930613626712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_29
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 135
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919adef5321da9ce0800000000000000
+      internalID: -1397574784481646311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_30
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 135
+        width: 86
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5345e0252b66cf2a0800000000000000
+      internalID: -6702369229367258059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_31
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 142
+        width: 96
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1bf2d93c4290d50800000000000000
+      internalID: 6703929942892065226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_32
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 141
+        width: 92
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6bde416757405e0800000000000000
+      internalID: -1944299989099497746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_33
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 135
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be46686b9575cf60800000000000000
+      internalID: 8053972818953916087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_34
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 131
+        width: 99
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e08cc5d0977c5b0800000000000000
+      internalID: -5348172934181024165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_35
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 128
+        width: 82
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb04b0eb8033493c0800000000000000
+      internalID: -4353798827119263553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_36
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 84
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4161ab448615e1120800000000000000
+      internalID: 2386434360824436244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_37
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8d96e0ec93fa1d0800000000000000
+      internalID: -3337385241690384164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_38
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 83
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f644b03155918d300800000000000000
+      internalID: 276999230265705583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_39
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 87
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdfe35a3e1b8c250800000000000000
+      internalID: 5965213297740283324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_40
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 81
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8540e594f59e1d900800000000000000
+      internalID: 707603211935941720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_41
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561c69a141e5bde00800000000000000
+      internalID: 1070552776869069157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_42
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 0
+        width: 76
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff144d707ce138a0800000000000000
+      internalID: -6327016033596727309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_43
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 0
+        width: 77
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4aae0b6440c59070800000000000000
+      internalID: 8112601703864248907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_44
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 76
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a418e2a9f0723f0800000000000000
+      internalID: -925754043521742277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_45
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 0
+        width: 81
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0783c77f21a2c10800000000000000
+      internalID: 2029455436234125515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_46
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 27
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5674e7a4f0fb91f10800000000000000
+      internalID: 2241032361988736869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-smoke-texture-png-1733900_47
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 32
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69c953560bc06df0800000000000000
+      internalID: -188927956320925331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

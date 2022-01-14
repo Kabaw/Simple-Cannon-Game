@@ -3,10 +3,23 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+public delegate void OnFire(CannonController cannonController);
+
 public class CannonController : MonoBehaviour
 {
+    #region Events
+    private static OnFire _onFire;
+
+    public static event OnFire onFire
+    {
+        add { _onFire += value; }
+        remove { _onFire -= value; }
+    }
+    #endregion
+
     [Header("References")]
     [SerializeField] private Transform cannonPivotPointTransform;
+    [SerializeField] private Transform firePoint;
 
     [Header("Angle rotation limit")]
     [SerializeField] private bool invertArc;
@@ -16,13 +29,23 @@ public class CannonController : MonoBehaviour
     [Header("Movement")]
     [SerializeField] private float maxAngularVelocity;
 
-    [Header("All Purpuse")]
+    [Header("Fire data")]
+    [SerializeField] private CannonBallController projectile_prefab;
+    [SerializeField] private float muzzleSpeed;
+
+    [Tooltip("Fire rate per second.")]
+    [Range(0.1f, 100)]
+    [SerializeField] private float fireRate;
+
+    [Header("All Purpose")]
     [SerializeField] private bool xScaleInverted;
 
     private new Camera camera;
 
     private Vector2 cannonPivotPoint { get { return cannonPivotPointTransform.position; } }
     private int xScaleSign { get { return xScaleInverted ? -1 : 1; } }
+    private float lastShotTime = 0;
+
 
     private void Awake()
     {
@@ -31,8 +54,30 @@ public class CannonController : MonoBehaviour
 
     void Update()
     {       
-        //if(Input.GetMouseButtonDown(0))
-            LookAtTarget2D(MousePosition());
+        LookAtTarget2D(MousePosition());
+        EvaluateFire();
+    }
+
+    private void EvaluateFire()
+    {
+        if (!Input.GetMouseButtonDown(0))
+            return;
+
+        if (!(Time.time - lastShotTime > 1 / fireRate))
+            return;
+
+        lastShotTime = Time.time;
+
+        Fire();
+    }
+
+    private void Fire()
+    {
+        CannonBallController cannonBall = Instantiate(projectile_prefab, firePoint.position, firePoint.rotation);
+
+        cannonBall.rb2d.velocity = cannonBall.transform.right * muzzleSpeed;
+
+        _onFire?.Invoke(this);
     }
 
     private void LookAtTarget2D(Vector2 targetPoint)
